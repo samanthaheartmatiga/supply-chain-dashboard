@@ -1,9 +1,3 @@
-You don't strictly *need* to record a video if your documentation is clear enough for them to spin it up and explore independently, but including a 60-second Loom or OBS recording acts as an instant hook for recruiters or reviewers who might not want to download and open Power BI Desktop right away.
-
-Below is a complete, professional project documentation template tailored for your GitHub repository. You can copy and paste this directly into your repo's `README.md` file.
-
----
-
 # Supply Chain & Procurement Control-Room Dashboard
 
 A high-density, two-page Power BI analytics suite built to monitor executive financial health and deep-dive into operational fulfillment, vendor reliability, and supply chain bottlenecks.
